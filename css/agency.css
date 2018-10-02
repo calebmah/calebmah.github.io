@@ -601,10 +601,6 @@ section#contact {
   background-position: center;
 }
 
-section#contact .section-heading {
-  color: #fff;
-}
-
 section#contact .form-group {
   margin-bottom: 25px;
 }
@@ -655,12 +651,14 @@ section#contact :-ms-input-placeholder {
 footer {
   padding: 25px 0;
   text-align: center;
+  background-color: #212529;
 }
 
 footer span.copyright {
   font-size: 90%;
   line-height: 40px;
   text-transform: none;
+  color: #fed136;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
