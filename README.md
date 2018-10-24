@@ -1,6 +1,6 @@
 # README
 
-This is the repository for my personal website, [available here](https://calebmah.github.io/). It is currently a work in progress.
+This is the repository for my personal website, available at [calebmah.github.io](https://calebmah.github.io/) and now also available at [calebmah.me](https://calebmah.me/). It is currently a work in progress.
 
 # Credits
 The original bootstrap template is [Agency](https://startbootstrap.com/template-overviews/agency/).
