@@ -1,32 +1,32 @@
 {
   "_args": [
     [
-      "@fortawesome/fontawesome-free@5.3.1",
+      "@fortawesome/fontawesome-free@5.7.2",
       "D:\\Documents\\School\\calebmah.github.io"
     ]
   ],
-  "_from": "@fortawesome/fontawesome-free@5.3.1",
-  "_id": "@fortawesome/fontawesome-free@5.3.1",
+  "_from": "@fortawesome/fontawesome-free@5.7.2",
+  "_id": "@fortawesome/fontawesome-free@5.7.2",
   "_inBundle": false,
-  "_integrity": "sha512-jt6yi7iZVtkY9Jc6zFo+G2vqL4M81pb3IA3WmnnDt9ci7Asz+mPg4gbZL8pjx0nGFBsG0Bmd7BjU9IQkebqxFA==",
+  "_integrity": "sha512-Ha4HshKdCVKgu4TVCtG8XyPPYdzTzNW4/fvPnn+LT7AosRABryhlRv4cc4+o84dgpvVJN9reN7jo/c+nYujFug==",
   "_location": "/@fortawesome/fontawesome-free",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@fortawesome/fontawesome-free@5.3.1",
+    "raw": "@fortawesome/fontawesome-free@5.7.2",
     "name": "@fortawesome/fontawesome-free",
     "escapedName": "@fortawesome%2ffontawesome-free",
     "scope": "@fortawesome",
-    "rawSpec": "5.3.1",
+    "rawSpec": "5.7.2",
     "saveSpec": null,
-    "fetchSpec": "5.3.1"
+    "fetchSpec": "5.7.2"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.3.1.tgz",
-  "_spec": "5.3.1",
+  "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.7.2.tgz",
+  "_spec": "5.7.2",
   "_where": "D:\\Documents\\School\\calebmah.github.io",
   "author": {
     "name": "Dave Gandy",
@@ -80,5 +80,5 @@
     "url": "git+https://github.com/FortAwesome/Font-Awesome.git"
   },
   "style": "css/fontawesome.css",
-  "version": "5.3.1"
+  "version": "5.7.2"
 }
